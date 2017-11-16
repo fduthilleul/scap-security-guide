@@ -2,7 +2,7 @@
 <title>DISA STIG for Red Hat Enterprise Linux 7</title>
 <description>
 This profile contains configuration checks that align to the 
-DISA STIG for Red Hat Enterprise Linux V1R1.
+DISA STIG for Red Hat Enterprise Linux V1R2.
 
 In addition to being applicable to RHEL7, DISA recognizes this 
 configuration baseline as applicable to the operating system
